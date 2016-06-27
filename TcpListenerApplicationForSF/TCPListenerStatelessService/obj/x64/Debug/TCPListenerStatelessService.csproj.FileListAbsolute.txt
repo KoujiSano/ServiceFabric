@@ -1,0 +1,54 @@
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\TCPListenerStatelessService.exe.config
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\TCPListenerStatelessService.exe
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\TCPListenerStatelessService.pdb
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\ServiceFabricServiceModel.dll
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\System.Fabric.dll
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\System.Fabric.xml
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\obj\x64\Debug\TCPListenerStatelessService.exe
+c:\users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\obj\x64\Debug\TCPListenerStatelessService.pdb
+C:\Users\tonod\documents\visual studio 2015\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\obj\x64\Debug\TCPListenerStatelessService.csprojResolveAssemblyReference.cache
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\TCPListenerStatelessService.exe.config
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\TCPListenerStatelessService.exe
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\TCPListenerStatelessService.pdb
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\ServiceFabricServiceModel.dll
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\System.Fabric.dll
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\System.Fabric.xml
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\obj\x64\Debug\TCPListenerStatelessService.csprojResolveAssemblyReference.cache
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\obj\x64\Debug\TCPListenerStatelessService.exe
+\\simplise.local\Share\Projects\TcpListenerApplicationForSF\TCPListenerStatelessService\obj\x64\Debug\TCPListenerStatelessService.pdb
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\obj\x64\Debug\TCPListenerStatelessService.csprojResolveAssemblyReference.cache
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\obj\x64\Debug\TCPListenerStatelessService.exe
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\obj\x64\Debug\TCPListenerStatelessService.pdb
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\TCPListenerStatelessService.exe.config
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\TCPListenerStatelessService.exe
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\TCPListenerStatelessService.pdb
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\ServiceFabricServiceModel.dll
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\System.Fabric.dll
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\System.Fabric.xml
+C:\TcpListenerApplicationForSF\TCPListenerStatelessService\bin\x64\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll

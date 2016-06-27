@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "TcpListenerApplicationForSF", "TcpListenerApplicationForSF\TcpListenerApplicationForSF.sfproj", "{B32CA6E8-0964-499D-BBE5-E44B0EB11EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPListenerStatelessService", "TCPListenerStatelessService\TCPListenerStatelessService.csproj", "{A0AF7960-B252-421B-89E5-C36C2EEBB2F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32CA6E8-0964-499D-BBE5-E44B0EB11EC9}.Debug|x64.ActiveCfg = Debug|x64
+		{B32CA6E8-0964-499D-BBE5-E44B0EB11EC9}.Debug|x64.Build.0 = Debug|x64
+		{B32CA6E8-0964-499D-BBE5-E44B0EB11EC9}.Debug|x64.Deploy.0 = Debug|x64
+		{B32CA6E8-0964-499D-BBE5-E44B0EB11EC9}.Release|x64.ActiveCfg = Release|x64
+		{B32CA6E8-0964-499D-BBE5-E44B0EB11EC9}.Release|x64.Build.0 = Release|x64
+		{B32CA6E8-0964-499D-BBE5-E44B0EB11EC9}.Release|x64.Deploy.0 = Release|x64
+		{A0AF7960-B252-421B-89E5-C36C2EEBB2F6}.Debug|x64.ActiveCfg = Debug|x64
+		{A0AF7960-B252-421B-89E5-C36C2EEBB2F6}.Debug|x64.Build.0 = Debug|x64
+		{A0AF7960-B252-421B-89E5-C36C2EEBB2F6}.Release|x64.ActiveCfg = Release|x64
+		{A0AF7960-B252-421B-89E5-C36C2EEBB2F6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
